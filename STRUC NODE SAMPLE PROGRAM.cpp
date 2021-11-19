@@ -121,3 +121,8 @@ int main() {
   deleteNode(&head, 3);
   printList(head);
 }
+
+/* OUTPUT
+  Link list: 3 2 5 1 4
+  After deleting an element: 2 5 1 4
+*/
