@@ -131,5 +131,9 @@ int main()
     return 0;
 }
 
+/* OUTPUT
+    Created Linked list is:  1  7  8  6  4
+*/
+
 
 // This code is contributed by rathbhupendra, arkajyotibasak
