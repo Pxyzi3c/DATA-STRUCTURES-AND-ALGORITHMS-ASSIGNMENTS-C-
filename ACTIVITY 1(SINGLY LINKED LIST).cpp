@@ -74,3 +74,7 @@ int main()
 
     return 0;
 }
+
+/* OUTPUT:
+    Creted Linked list is: 3 2 5 1 4
+*/
